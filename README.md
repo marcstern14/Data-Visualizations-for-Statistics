@@ -1,4 +1,6 @@
 # Data-Visualizations-for-Statistics
-These are two Jupyter Notebooks that demonstrate some visualization capabilities using pandas, matplotlib, seaborn, and statistics modules.
+These are two Jupyter Notebooks that demonstrate some visualization capabilities using pandas, Matplotlib, seaborn, and SciPy modules.
 
-These are homework assignments from a statistics course I'm currently taking at Montclair State University, as part of my MS in Data Science. 
+These are homework assignments from a statistics course at Montclair State University, as part of my MS in Data Science.
+
+(Completion: Fall 2020;  Course grade: A)
